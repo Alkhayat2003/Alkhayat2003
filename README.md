@@ -8,7 +8,7 @@ Results-driven Backend Software Engineer with extensive hands-on expertise in ar
 ---
 
 ## Connect With Me
-- LinkedIn: [my linkedin](www.linkedin.com/in/omar-ali-alkhayat-0717a839b)
+- LinkedIn: [my linkedin](https://www.linkedin.com/in/omar-ali-alkhayat-0717a839b/)
 - Portfolio: [my portfolio](https://alkhayat2003.github.io/)
 - GitHub: [github.com/alkhayat2003](https://github.com/alkhayat2003)
 
@@ -81,14 +81,3 @@ Antioch Syrian University | 2021 – August 2026
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alkhayat2003&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alkhayat2003&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=alkhayat2003&theme=shadow_blue&hide_border=true)
-
----
-
-*Last updated: October 2026*
