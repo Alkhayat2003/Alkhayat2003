@@ -8,8 +8,8 @@ Results-driven Backend Software Engineer with extensive hands-on expertise in ar
 ---
 
 ## Connect With Me
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- LinkedIn: [](www.linkedin.com/in/omar-ali-alkhayat-0717a839b)
+- Portfolio: [](https://alkhayat2003.github.io/)
 - GitHub: [github.com/alkhayat2003](https://github.com/alkhayat2003)
 
 ---
